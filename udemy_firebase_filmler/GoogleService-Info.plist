@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>292399645601-jgqa3hk9far32j18cjdruu2t9hv59ajl.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.292399645601-jgqa3hk9far32j18cjdruu2t9hv59ajl</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBD2ozg7MpCmHxS1Yk3sYJDzgb617Xa3Gc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>292399645601</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.erenveudemy.udemy-firebase-filmler</string>
+	<key>PROJECT_ID</key>
+	<string>udemy-film</string>
+	<key>STORAGE_BUCKET</key>
+	<string>udemy-film.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:292399645601:ios:c83112debc2428ee8b41e0</string>
+</dict>
+</plist>
